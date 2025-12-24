@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320589266854",
+    "project_id": "laza-ecommerce-5225b",
+    "storage_bucket": "laza-ecommerce-5225b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320589266854:android:523470c958f82f85049967",
+        "android_client_info": {
+          "package_name": "com.example.laza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZsr7FFAX0qgmnHpsEaED1-FHPRIuk2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
