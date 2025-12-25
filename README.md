@@ -48,7 +48,7 @@ flutter doctor
 ### 2. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mo7amedsalem1/LazaUI_E-Commerce-Mobile-Application-By-Flutter
 cd e-commerce mobile application
 ```
 
@@ -205,7 +205,9 @@ If Firebase is not configured, the app automatically switches to **Mock Mode**:
 
 ## 📸 Screenshots
 
-> Add screenshots here after building the app
+Appium Usage
+<img width="1044" height="267" alt="image" src="https://github.com/user-attachments/assets/c5629c81-8f11-4ab2-b2fb-e541d940fc99" />
+
 
 ## 🐛 Troubleshooting
 
@@ -227,7 +229,10 @@ This project is for educational purposes.
 
 ## 👥 Contributors
 
-- Your Name
+- Mohamed Salem Mohamed
+- Jeovani Adel Million
+- Mohab Mohamed Mokhtar
+- Jean Mina Elthaalab
 
 ## 🔗 Resources
 
