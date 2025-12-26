@@ -230,7 +230,7 @@ This project is for educational purposes.
 ## 👥 Contributors
 
 - Mohamed Salem Mohamed
-- Jeovani Adel Million
+- Jeovany Adel Million
 - Mohab Mohamed Mokhtar
 - Jean Mina Elthaalab
 
